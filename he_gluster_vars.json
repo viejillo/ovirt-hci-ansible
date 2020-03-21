@@ -1,0 +1,23 @@
+{
+  "he_appliance_password": "changeme",
+  "he_admin_password": "changeme",
+  "he_domain_type": "glusterfs",
+  "he_fqdn": "ovirtengine.example.com",
+  "he_vm_mac_addr": "01:16:3e:05:16:33",
+  "he_default_gateway": "192.168.0.1",
+  "he_mgmt_network": "ovirtmgmt",
+  "he_storage_domain_name": "HostedEngine",
+  "he_storage_domain_path": "/engine",
+  "he_storage_domain_addr": "192.168.0.101",
+  "he_mount_options": "backup-volfile-servers=192.168.0.102:192.168.0.103",
+  "he_host_name": "host1.example.com",
+  "he_bridge_if": "eth0",
+  "he_vm_ip_addr": "192.168.0.104",
+  "he_vm_ip_prefix": "24",
+  "he_enable_hc_gluster_service": true,
+  "he_mem_size_MB": "32768",
+  "he_cluster": "Default",
+  "he_network_test": "dns",
+  "he_dns_addr": "192.168.0.200",
+  "he_just_collect_network_interfaces": true
+}
