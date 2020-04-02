@@ -2,8 +2,6 @@
   "he_appliance_password": "changeme",
   "he_admin_password": "changeme",
   "he_domain_type": "glusterfs",
-  "he_fqdn": "ovirtengine.example.com",
-  "he_vm_mac_addr": "00:16:3e:05:e1:35",
   "he_vm_mac_addr": "01:16:3e:05:16:33",
   "he_default_gateway": "192.168.0.1",
   "he_mgmt_network": "ovirtmgmt",
